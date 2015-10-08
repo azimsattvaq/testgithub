@@ -6,6 +6,7 @@ public class Welcome
 	{
 	System.out.println("welcome to github");
 	System.out.println("second time i commited");
+	System.out.println("third time i added statement");
 
 }
 }
